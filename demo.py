@@ -1,4 +1,4 @@
-
+ 
 try:
     with open('valutor.txt','r', encoding='utf8') as f:
         radet = f.readlines()
@@ -30,7 +30,7 @@ try:
                 else:
                     kurser[ord[0]]= [ord[-2],ord[1]]
     
-    infilnamn = input('Chose one of the files')
+    infilnamn = input("Chose one of the persom's files")
     with open(infilnamn,'r', encoding='utf8') as f:
         radet = f.readlines()
         företag = {}
