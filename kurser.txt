@@ -1,0 +1,32 @@
+# Kurser
+
+AAPL,   Apple,                  128.98     USD
+MSFT,   Microsoft,              217.49     USD
+AMZN,   Amazon,                3114.21     USD
+GOOG,   Alphabet class C,      1766.72     USD
+GOOGL,  Alphabet class A,      1756.29     USD
+TSLA,   Tesla,                  811.19     USD
+FB,     Facebook,               256.84     USD
+BABA,   Alibaba,                227.37     USD
+TSM,    Taiwan Semiconductor,   122.60     USD
+BRK.B,  Berkshire Hathaway,     233.43     USD
+BRK.A,  Berkshire Hathaway,  350050.00     USD
+V,      Visa,                   212.89     USD
+JPM,    Jpmorgan Chase,         138.05     USD
+
+AZN,    AstraZeneca,            847.80     SEK
+ATCO-A, Atlas Copco A,          465.60     SEK
+ABB,    ABB,                    248.70     SEK
+INVE-B, Investor B,             613.80     SEK
+VOLV-B, Volvo B,                210.30     SEK
+
+BTC,    Bitcoin,              35880.94     USD
+ETH,    Ethereum,              1132.59     USD
+XRP,    XRP,                      0.3068   USD
+LTC,    Litecoin,               143.90     USD
+BCH,    Bitcoin Cash,           496.16     USD
+ADA,    Cardano,                  0.2980   USD
+DOT,    Polkadot,                 8.39     USD
+XLM,    Stellar,                  0.2976   USD
+LINK,   Chainlink,               15.11     USD
+

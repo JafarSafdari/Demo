@@ -1,0 +1,6 @@
+# Annas portfölj
+
+10 AAPL
+50 TSLA
+5.5 AMZN
+4.5 MSFT

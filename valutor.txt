@@ -1,0 +1,8 @@
+# Valutor mot SEK
+
+Amerikanska dollar, USD,   8.2635
+Dansk krona,        DKK,   1.3548
+Euro e,               EUR,  10.0753
+Norsk krona,        NOK,   0.9729
+Pund sterling,      GBP,  11.1531
+Schweizisk franc,   CHF,   9.3125
