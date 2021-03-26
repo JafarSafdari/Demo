@@ -1,6 +1,4 @@
 
-import sys
-
 try:
     with open('valutor.txt','r', encoding='utf8') as f:
         radet = f.readlines()
@@ -22,7 +20,6 @@ try:
         for rad in radet:
             rad = rad.strip('\n')
             ord = rad.split()
-            #print(ord)
             if len(ord) > 0 and len(ord) >2:
                 ord[0] = ord[0].strip(',')
                 if len(ord) > 4:
@@ -32,9 +29,8 @@ try:
                     kurser[ord[0]]= [(float(ord[-2])*float(valuta[ord[-1]])), ord[1]]
                 else:
                     kurser[ord[0]]= [ord[-2],ord[1]]
-
-        
-    infilnamn = sys.argv[1]
+    
+    infilnamn = input('Chose one of the files')
     with open(infilnamn,'r', encoding='utf8') as f:
         radet = f.readlines()
         företag = {}
