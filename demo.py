@@ -1,4 +1,5 @@
  
+#Test the push command
 try:
     with open('valutor.txt','r', encoding='utf8') as f:
         radet = f.readlines()
